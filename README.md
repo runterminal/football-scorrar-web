@@ -1,6 +1,6 @@
-# Football Scorrar - Free Bootstrap HTML5 Sports Website Template
+# Football Scorrar -  Bootstrap HTML5 Sports Website Template
 
-**Football Scorrar** is a free Bootstrap template built on top of HTML5 & CSS3 for sports websites. As the name suggests, it is a fitness and sports-related web canvas, especially designed for football clubs. It features a modern, well-designed layout with an eye-catching look. **Football Scorrar** comes with 100% responsive layouts and works superbly well right out of the box.
+**Football Scorrar** is a Bootstrap template built on top of HTML5 & CSS3 for sports websites. As the name suggests, it is a fitness and sports-related web canvas, especially designed for football clubs. It features a modern, well-designed layout with an eye-catching look. **Football Scorrar** comes with 100% responsive layouts and works superbly well right out of the box.
 
 You don’t have to stick with the default look; it can be easily customized into a more stylish site skin. The well-commented code makes customization seamless. Additionally, it includes a variety of contemporary and dynamic features like a hero header, fun fact counters, call-to-action buttons, a modal video player, and much more. Make a strong and lasting impression with **Football Scorrar** and push the boundaries!
 
